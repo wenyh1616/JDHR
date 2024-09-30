@@ -6,7 +6,7 @@ JDHR是一个基于Jittor国产深度学习框架的动态人体渲染算法库�
 
 JDHR (Jittor-based Dynamic Human Rendering) is a dynamic human rendering algorithm library based on Jittor. This algorithm library fully integrates key technologies, including point cloud sampling, 4D feature grid representation, and real-time rendering.
 
-<video width="720" height="303" controls> #或者：<video width:60% height:auto controls>
+<video width="720" height="303" controls> 
 <source src="https://movie.cy798.cn/%E9%BB%91%E8%B1%B9.Black.Panther.2018.BD720P.X264.AAC.English.CHS-ENG.mp4" type="video/mp4">
 </video>
 
